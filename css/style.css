@@ -1,0 +1,42 @@
+form{
+    margin-top: 20%;
+    text-align: left;
+ }
+
+.fa-solid{
+    font-size: 100px;
+    color: aliceblue;
+}
+#h1_cad_user{
+    color: azure;
+    margin-bottom: 50px;
+}
+
+body{
+    background-color: #2F4F4F;
+}
+.radio{
+    color: aliceblue;
+    font-size: 20px;
+}
+
+.form-label{
+    display: flex;
+   margin-left: 1px;
+}
+
+.btn{
+    width: 40%;
+}
+.button{
+    text-align: center;
+    margin-top: 30px;
+}
+.img_cad{
+    margin-top: 80px;
+}
+label{
+    color: aliceblue;
+    font-size: 25px;
+}
+
